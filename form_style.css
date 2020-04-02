@@ -1,0 +1,18 @@
+h1{
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
+h2{
+    font-size: 1rem;
+    margin-top: 1rem;
+    font-display: none;
+}
+h3{
+    font-size: 1rem;
+}
+form{
+    margin-top: 3rem;
+}
+p{
+    margin-top: 1rem;
+}
